@@ -1,3 +1,4 @@
+// Custom 'Unique' Helper (Using reduce and find helpers)
 function unique(array) {
   return array.reduce(function (acc, element) {
     var existingElement = acc.find(function (target) {

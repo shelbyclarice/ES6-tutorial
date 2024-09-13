@@ -7,3 +7,5 @@ var requests = [
 var inProgress = requests.some(function (request) {
   return request.status === 'pending';
 });
+
+

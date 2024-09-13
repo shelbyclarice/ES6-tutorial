@@ -1,3 +1,4 @@
+// Custom findWhere Helper
 function findWhere(array, criteria) {
   return array.find(function (element) {
     var property = Object.keys(criteria)[0];

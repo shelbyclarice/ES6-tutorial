@@ -1,3 +1,4 @@
+// Const/Let Refactoring
 const statuses = [
   { code: 'OK', response: 'Request successful' },
   { code: 'FAILED', response: 'There was an error with your request' },

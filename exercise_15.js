@@ -1,3 +1,4 @@
+// Reducing Properties
 var desks = [
   { type: 'sitting' },
   { type: 'standing' },
